@@ -1,0 +1,5 @@
+c:\users\christina.meyer\documents\visual studio 2010\Projects\RandomCatPictures\CatLibrary\bin\Debug\CatLibrary.dll
+c:\users\christina.meyer\documents\visual studio 2010\Projects\RandomCatPictures\CatLibrary\bin\Debug\CatLibrary.pdb
+c:\users\christina.meyer\documents\visual studio 2010\Projects\RandomCatPictures\CatLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\christina.meyer\documents\visual studio 2010\Projects\RandomCatPictures\CatLibrary\obj\Debug\CatLibrary.dll
+c:\users\christina.meyer\documents\visual studio 2010\Projects\RandomCatPictures\CatLibrary\obj\Debug\CatLibrary.pdb
